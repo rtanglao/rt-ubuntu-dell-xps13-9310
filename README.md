@@ -3,7 +3,13 @@
 * adventures in making ubuntu work for me on a dell xps 13 9310
 * lots of this stuff will probably be an edge case because i migrated from WSL on a surface book 2, see https://github.com/rtanglao/rt-making-wsl-and-windows-work-for-me/blob/master/README.md
 
-## 13janauary2020 getting ssh to work
+## 15february2021
+
+* reinstalled but made sure it was encrypted when erasing disk
+* sudo apt install gnome-tweak-tool
+* install dash to panel gnome extension
+
+## 13january2021 getting ssh to work
 
 
 * I googled "No more authentication methods to try." and found the 
