@@ -3,6 +3,15 @@
 * adventures in making ubuntu work for me on a dell xps 13 9310
 * lots of this stuff will probably be an edge case because i migrated from WSL on a surface book 2, see https://github.com/rtanglao/rt-making-wsl-and-windows-work-for-me/blob/master/README.md
 
+## 22february 2021 getting pip3
+
+```bash
+sudo apt-get install software-properties-common
+sudo apt-add-repository universe
+sudo apt-get update
+sudo apt-get install python3-pip
+```
+
 ## 15february2021
 
 * reinstalled but made sure it was encrypted when erasing disk
