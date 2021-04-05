@@ -3,6 +3,8 @@
 * adventures in making ubuntu work for me on a dell xps 13 9310
 * lots of this stuff will probably be an edge case because i migrated from WSL on a surface book 2, see https://github.com/rtanglao/rt-making-wsl-and-windows-work-for-me/blob/master/README.md
 
+## 05pril2021 firefox extern extension that only works with linux, use gedit or any other editor to edit text areas in firefox with shift control d
+* https://addons.mozilla.org/en-US/firefox/addon/textern/
 ## 22february 2021 getting pip3
 
 ```bash
