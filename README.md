@@ -5,7 +5,8 @@
 
 ## 16april2021 install cmake to install gollum for the gitlab wiki
 ```bash
-sudo apt-get install rubygems ruby-dev
+sudo apt-get install cmake
+gem install gollum
 ```
 ## 05pril2021 firefox extern extension that only works with linux, use gedit or any other editor to edit text areas in firefox with shift control d
 * https://addons.mozilla.org/en-US/firefox/addon/textern/
