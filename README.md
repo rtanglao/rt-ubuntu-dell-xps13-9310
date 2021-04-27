@@ -3,6 +3,11 @@
 * adventures in making ubuntu work for me on a dell xps 13 9310
 * lots of this stuff will probably be an edge case because i migrated from WSL on a surface book 2, see https://github.com/rtanglao/rt-making-wsl-and-windows-work-for-me/blob/master/README.md
 
+## 19april2021 how to install Imagemagick on Ubuntu 20.04 with JPG, PNG and TIFF delegates
+* why isn't this the default install
+[Install ImageMagick with JPG, PNG and TIFF Delegates - Ubuntu (20.04)](https://gist.github.com/nickferrando/fb0a44d707c8c3efd92dedd0f79d2911)
+
+
 ## 16april2021 install cmake to install gollum for the gitlab wiki
 ```bash
 sudo apt-get install cmake
