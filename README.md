@@ -3,6 +3,11 @@
 * adventures in making ubuntu work for me on a dell xps 13 9310
 * lots of this stuff will probably be an edge case because i migrated from WSL on a surface book 2, see https://github.com/rtanglao/rt-making-wsl-and-windows-work-for-me/blob/master/README.md
 
+## 13august2021 how to make tresorit linux app bigger in Ubuntu 20.04
+
+* Edit `/home/roland/.local/share/applications/tresorit.desktop`
+* Change `Exec=/home/roland/.local/share/tresorit/tresorit %u to``Exec=env QT_SCREEN_SCALE_FACTORS=2 /home/roland/.local/share/tresorit/tresorit %u`
+
 ## 26april2021 how to change the terminal title
 * from [How to change Gnome-Terminal title?](https://askubuntu.com/questions/22413/how-to-change-gnome-terminal-title)
 ```bash
