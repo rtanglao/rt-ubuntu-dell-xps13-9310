@@ -3,6 +3,12 @@
 * adventures in making ubuntu work for me on a dell xps 13 9310
 * lots of this stuff will probably be an edge case because i migrated from WSL on a surface book 2, see https://github.com/rtanglao/rt-making-wsl-and-windows-work-for-me/blob/master/README.md
 
+## 20september2021 how to make Markdown preview comeback
+* from SO: [Built-in Markdown shortcut disappeared](https://stackoverflow.com/questions/54386863/built-in-markdown-shortcut-disappeared)
+* tl;dr:
+```bash
+rm -rf ~/.config/Code
+```
 ## 13august2021 how to make tresorit linux app bigger in Ubuntu 20.04
 
 * Edit `/home/roland/.local/share/applications/tresorit.desktop`
